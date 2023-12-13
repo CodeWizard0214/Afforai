@@ -8,6 +8,7 @@ A responsive landing page built using React and Tailwind CSS.
 - Tailwind's configuration file enables precise control over styles, ensuring the landing page aligns with your brand.
 
 ## Demo
+https://afforai-chi.vercel.app/
 
 ## Features
 

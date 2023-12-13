@@ -49,7 +49,7 @@ export const Feedback = () => {
   ];
 
   return (
-    <div className="my-40 text-center">
+    <div className=" text-center">
       <div className="flex justify-center">
         <img width={170} src="https://afforai.com/img/graphics/ph-review.webp" alt="Product Hunt Review 4.9/5" />
       </div>
